@@ -1,4 +1,4 @@
-# koha-sql-reports-misc
+# Miscellenous SQL Reports for Koha
 
 Miscellaneous saved SQL reports for [Koha ILS](https://koha-community.org/), written by [L2C2 Technologies](https://github.com/l2c2technologies) for the libraries we support.
 
